@@ -1,4 +1,4 @@
-# Tugas Pengulangan
+# Algoritma dan Struktur Data
 
 ## Informasi Penulis
 - **Nama:** Yudha Yudistira
