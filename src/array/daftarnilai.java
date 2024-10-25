@@ -15,10 +15,8 @@ public class daftarnilai {
             System.out.println("Mahasiswa Ke-" + (i + 1));
             System.out.print("Nama: ");
             namaMahasiswa[i] = input.next();
-            
             System.out.print("Nilai: ");
             nilaiMahasiswa[i] = input.nextInt();
-            
             totalNilai += nilaiMahasiswa[i];  
         }
         
